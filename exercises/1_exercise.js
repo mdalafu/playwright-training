@@ -1,5 +1,5 @@
 function calculateSquare(num) {
-    return num * 4;
+    return num * num;
 }
 console.log(calculateSquare(5));
 var calculateTriangleArea = function (base, height) {
