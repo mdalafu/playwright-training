@@ -1,6 +1,6 @@
 
 function calculateSquare(num: number): number{
-    return num*4;
+    return num * num;
 }
 
 console.log(calculateSquare(5));
